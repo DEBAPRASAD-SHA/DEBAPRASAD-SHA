@@ -18,3 +18,28 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
+---
+
+## 🧠 About Me
+
+```javascript
+const DEBAPRASAD = {
+    LOCATION:     "📍 Bhubaneswar, Odisha, India 🇮🇳",
+    ROLE:         "💻 Full-Stack Developer",
+    CURRENTFOCUS: ["⚛️ React.js", "▲ Next.js", "🟢 Node.js", "🤖 AI Integration"],
+    PASSION:      "🎨 Building modern, animated & responsive web applications",
+    MISSION:      "🚀 Bridge AI × Web Development — build products that matter",
+    MINDSET:      "🧠 Always curious about new frameworks & technologies",
+    SUPERPOWER:   "✨ Turning TEA into perfect interfaces",
+    PJILOSOPHY:   "Great design + Clean code = Magic 💫",
+    OPENTO:       ["🤝 Collaborations", "💼 Freelance", "🌱 Open Source"],
+};
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+
+**💻 Made with 💙 by DEBAPRASAD SHA — Bhubaneswar, India**
+
+</div>
