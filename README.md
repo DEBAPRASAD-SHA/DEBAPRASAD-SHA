@@ -77,7 +77,24 @@ const DEBAPRASAD = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+
+<hr style="border:1px solid #444;">
+
+ <h1 align="left"> ⚡ Project Vision </h1>
+
+<div align="center">
+
+```mermaid id="6xwtpk"
+flowchart LR
+    A[💡 Ideas] --> B[🎨 UI/UX]
+    B --> C[⚙️ Full Stack]
+    C --> D[🤖 AI Integration]
+    D --> E[🚀 Scalable Product]
+```
+<hr style="border:1px solid #444;">
 </div>
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
