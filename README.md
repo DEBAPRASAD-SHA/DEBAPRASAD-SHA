@@ -95,6 +95,13 @@ flowchart LR
 </div>
 </div>
 
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DEBAPRASAD-SHA/DEBAPRASAD-SHA/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/DEBAPRASAD-SHA/DEBAPRASAD-SHA/output/github-snake.svg"
+    alt="GitHub contribution snake" />
+</picture> -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
