@@ -30,7 +30,7 @@ const DEBAPRASAD = {
     MISSION:      "🚀 Bridge AI × Web Development — build products that matter",
     MINDSET:      "🧠 Always curious about new frameworks & technologies",
     SUPERPOWER:   "✨ Turning TEA into perfect interfaces",
-    PJILOSOPHY:   "Great design + Clean code = Magic 💫",
+    PHILOSOPHY:   "Great design + Clean code = Magic 💫",
     OPENTO:       ["🤝 Collaborations", "💼 Freelance", "🌱 Open Source"],
 };
 ```
