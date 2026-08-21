@@ -78,6 +78,50 @@ const DEBAPRASAD = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
+# 🛰 Engineering Mindset
+
+```mermaid
+mindmap
+  root((💻 Developer))
+
+    ⚛️ Frontend
+      HTML5
+      CSS3
+      JavaScript
+      TypeScript
+      React
+      Next.js
+      Tailwind CSS
+      three.js
+
+    🟢 Backend
+      Node.js
+      Express.js
+
+    🗄️ Database
+      MongoDB
+      MySQL
+      PostgreSQL
+
+    🎨 Animation & Design
+      Framer Motion
+      GSAP
+      Figma
+
+    🤖 AI & Emerging Tech
+      Python
+      OpenAI
+      GraphQL
+      Docker
+
+    🔧 Tools & DevOps
+      VS Code
+      Git
+      GitHub
+      Postman
+      Vercel
+```
+
 <hr style="border:1px solid #444;">
 
  <h1 align="left"> ⚡ Project Vision </h1>
@@ -94,7 +138,6 @@ flowchart LR
 <hr style="border:1px solid #444;">
 </div>
 </div>
-
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/DEBAPRASAD-SHA/DEBAPRASAD-SHA/output/github-snake-dark.svg" />
